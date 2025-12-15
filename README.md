@@ -1,3 +1,21 @@
+---
+language:
+- ko
+license: mit
+tags:
+- tabular-classification
+- business-analytics
+- risk-prediction
+- ensemble
+- sklearn
+library_name: sklearn
+datasets:
+- custom
+metrics:
+- accuracy
+- f1
+- roc-auc
+---
 # 자영업자 조기경보 AI 시스템 v2.0
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
